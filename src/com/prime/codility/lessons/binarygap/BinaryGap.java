@@ -1,4 +1,4 @@
-package com.prime.codility.lessons;
+package com.prime.codility.lessons.binarygap;
 
 import java.util.Scanner;
 
